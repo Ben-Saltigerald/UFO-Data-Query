@@ -5,3 +5,5 @@ Queried data from a csv file that includes records of UFO sightings across the w
 - Imported the file and read it into a dictionary
 - Filtered the data to look for sightings that inlcuded bright objects.
 - Filtered the data by every city I have lived in obtained the average duration that each of these sightings lasted in each city. 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
